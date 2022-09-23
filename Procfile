@@ -1,1 +1,1 @@
-web: gunicorn Aspirant.wsgi
+web: gunicorn aspirant11.wsgi --log-file -
